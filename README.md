@@ -13,7 +13,7 @@ https://guide.finderbots.com uses this project to drive recommendations for a gu
 
  1. [A Universal Multimodal Recommender](http://occamsmachete.com/ml/2014/10/07/creating-a-unified-recommender-with-mahout-and-a-search-engine/)
  2. What New In Recommenders: [Part 1](http://occamsmachete.com/ml/2014/08/11/mahout-on-spark-whats-new-in-recommenders/) and [Part 2](http://occamsmachete.com/ml/2014/09/09/mahout-on-spark-whats-new-in-recommenders-part-2/)
- 3. A short ebook by Ted Dunning, [Practicle Mahine Learning](https://www.mapr.com/practical-machine-)
+ 3. A short ebook by Ted Dunning, [Practical Mahine Learning](https://www.mapr.com/practical-machine-learning)
  4. Spark-Mahout: [Intro to Cooccurrence Recommeders with Spark](https://mahout.apache.org/users/recommender/intro-cooccurrence-spark.html) (https://github.com/apache/mahout)
 
 ##Moved:
